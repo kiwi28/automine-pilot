@@ -84,3 +84,6 @@ def main():
         perform_actions()
 if __name__ == "__main__":
     main()
+
+
+# download botlab client https://github.com/Viir/bots/blob/main/guide/how-to-install-the-botlab-client-and-register-the-botlab-command.md
